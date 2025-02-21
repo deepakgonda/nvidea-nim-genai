@@ -37,7 +37,7 @@ source venv/bin/activate
 - **On Windows:**
 
 ```bash
-.env\Scriptsctivate
+.env\Scripts\activate
 ```
 
 #### ❌ **Deactivate Virtual Environment**
