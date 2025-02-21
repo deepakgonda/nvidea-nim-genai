@@ -1,0 +1,5 @@
+Python is a high-level programming language known for its simplicity.
+FAISS is a vector database used for similarity search.
+ChromaDB is an open-source vector database for embedding search.
+Ollama provides local AI models like Mistral and LLaMA.
+NVIDIA AI offers cloud-based AI models via an OpenAI-compatible API.

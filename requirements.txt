@@ -1,0 +1,10 @@
+openai
+python-dotenv
+ollama
+faiss-cpu
+chromadb
+tiktoken
+langchain
+langchain_community
+langchain_chroma
+langchain_nvidia_ai_endpoints

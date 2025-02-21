@@ -1,0 +1,47 @@
+# ✅ Python virtual environment
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# ✅ Environment Variables
+.env
+.env.*
+
+# ✅ VSCode specific files and folders
+.vscode/
+.history/
+
+# ✅ ChromaDB related files (if using persistence)
+chroma_db/
+*.chroma_cache
+*.db
+chroma_logs/
+
+# ✅ Log files
+*.log
+
+# ✅ SQLite Database (if used elsewhere)
+*.sqlite3
+*.db
+
+# ✅ System-specific files
+.DS_Store  # macOS
+Thumbs.db  # Windows
+
+# ✅ Jupyter Notebook checkpoints (if applicable)
+.ipynb_checkpoints/
+
+# ✅ Backup files
+*.bak
+*.swp
+*.tmp
+
+# ✅ Pytest cache
+.pytest_cache/
+
+# ✅ Coverage reports
+htmlcov/
+.coverage
